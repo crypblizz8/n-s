@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "NFL",
+    "description": "Train federated learning models",
+    "image": "https://picsum.photos/400/300?random=1",
+    "githubRepo": "https://github.com/bowenyou/nillion-federated-learning", 
+    "tags": ["ai"]
+  },
+  {
+    "id": 2,
+    "title": "NillionHealthcare",
+    "description": "Blind computation between healthcare datasets",
+    "image": "https://picsum.photos/400/300?random=2",
+    "githubRepo": "https://github.com/bowenyou/nillion-federated-learning", 
+    "tags": ["ai", "healthcare"]
+  },
+  {
+    "id": 3,
+    "title": "PrivyCal",
+    "description": "Schedule meetings without revealing your calendar",
+    "image": "https://picsum.photos/400/300?random=3",
+    "githubRepo": "https://github.com/bowenyou/nillion-federated-learning", 
+    "tags": ["consumer"]
+  },
+  {
+    "id": 4,
+    "title": "EmailEon",
+    "description": "Decentralized Email Marketing Platform",
+    "image": "https://picsum.photos/400/300?random=3",
+    "githubRepo": "https://github.com/bowenyou/nillion-federated-learning", 
+    "tags": ["consumer"]
+  },
+  {
+    "id": 5,
+    "title": "BattleshipX",
+    "description": "Secure on-chain battleship game",
+    "image": "https://picsum.photos/400/300?random=3",
+    "githubRepo": "https://github.com/bowenyou/nillion-federated-learning", 
+    "tags": ["game"]
+  },
+  {
+    "id": 6,
+    "title": "Monadic DNA",
+    "description": "Privacy preserving personal genomics",
+    "image": "https://picsum.photos/400/300?random=3",
+    "githubRepo": "https://github.com/bowenyou/nillion-federated-learning", 
+    "tags": ["healthcare"]
+  },
+  {
+    "id": 7,
+    "title": "Identicall",
+    "description": "Tool designed to assist unique-identity platforms",
+    "image": "https://picsum.photos/400/300?random=3",
+    "githubRepo": "https://github.com/bowenyou/nillion-federated-learning", 
+    "tags": ["identity"]
+  }
+]
